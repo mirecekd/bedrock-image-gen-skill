@@ -1,0 +1,1 @@
+§§include(/a0/usr/projects/private/bedrock-image-gen/SKILL.md)
