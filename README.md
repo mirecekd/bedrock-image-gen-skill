@@ -4,7 +4,14 @@ AI agent skill for generating and editing images via **Amazon Bedrock** using **
 
 Compatible with [Agent Zero](https://github.com/frdel/agent-zero) and [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
+
+</div>
+
 ## Features
+
 
 - **Text-to-Image** generation with style presets and negative prompts
 - **Image-to-Image** transformation and style transfer
@@ -104,6 +111,13 @@ This skill uses **no Python SDK or code** — only CLI tools:
 
 MIT License — see [LICENSE](LICENSE) for details.
 
----
+## Support
 
-<div align="center"><a href="https://www.buymeacoffee.com/mirecekdg"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a></div>
+If this tool is useful to you, you can support development:
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
+
+</div>
+
